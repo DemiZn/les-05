@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+}
+
+main{
+    width: 600px;
+    height: 400px;
+    background: black;
+    opacity: 1;
+}
+
+.block{
+    float:left;
+}
+
+#block-01{
+    width: 200px;
+    height: 400px;
+    background: yellow;
+}
+
+#block-02{
+    width: 244px;
+    height: 400px;
+    background: white;
+    margin-left: 7px;
+}
+
+#block-03{
+    width: 141px;
+    height: 400px;
+    background: red;
+    margin-left: 8px;
+}
